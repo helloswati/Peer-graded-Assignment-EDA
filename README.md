@@ -1,4 +1,4 @@
-# Peer-graded-Assignment-EDA
+# Peer-graded-Assignment-Data Analysis with Python
 ## House Sales in King County, USA
 ### InstructionsMy submission
 
